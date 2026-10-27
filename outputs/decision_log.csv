@@ -1,0 +1,85 @@
+date,day,channel,budget_before,budget_after,change_pct,share_pct,est_ctr,est_cvr,est_cpa,action,reason
+2026-09-28,1,Search,500,500,0.0,33.3,,,,warmup,"Search held at $500: warm-up, equal split to collect data on every channel"
+2026-09-28,1,Social,500,500,0.0,33.3,,,,warmup,"Social held at $500: warm-up, equal split to collect data on every channel"
+2026-09-28,1,Display,500,500,0.0,33.3,,,,warmup,"Display held at $500: warm-up, equal split to collect data on every channel"
+2026-09-29,2,Search,500,500,0.0,33.3,,,,warmup,"Search held at $500: warm-up, equal split to collect data on every channel"
+2026-09-29,2,Social,500,500,0.0,33.3,,,,warmup,"Social held at $500: warm-up, equal split to collect data on every channel"
+2026-09-29,2,Display,500,500,0.0,33.3,,,,warmup,"Display held at $500: warm-up, equal split to collect data on every channel"
+2026-09-30,3,Search,500,600,20.0,40.0,0.0328,0.0724,28.08,shift,"Search up 20% ($500->$600) due to better CPA $28.08 vs $47.33 portfolio (41% better), CVR 7.2%, stable CPA"
+2026-09-30,3,Social,500,500,0.0,33.3,0.0084,0.0198,55.56,shift,Social held at $500 (CPA $55.56): not the best or worst performer
+2026-09-30,3,Display,500,400,-20.0,26.7,0.0024,0.0118,102.35,shift,Display down 20% ($500->$400) due to higher CPA $102.35; budget moved to Search
+2026-10-01,4,Search,600,720,20.0,48.0,0.0316,0.0873,25.55,shift,"Search up 20% ($600->$720) due to better CPA $25.55 vs $39.47 portfolio (35% better), CVR 8.7%, stable CPA"
+2026-10-01,4,Social,500,460,-8.0,30.7,0.0087,0.0212,48.84,shift,Social down 8% ($500->$460) due to higher CPA $48.84; budget moved to Search
+2026-10-01,4,Display,400,320,-20.0,21.3,0.0024,0.0163,69.69,shift,Display down 20% ($400->$320) due to higher CPA $69.69; budget moved to Search [limited by guardrail (-20%/day or 10% floor)]
+2026-10-02,5,Search,720,864,20.0,57.6,0.0319,0.0868,25.62,shift,"Search up 20% ($720->$864) due to better CPA $25.62 vs $39.83 portfolio (36% better), CVR 8.7%, stable CPA"
+2026-10-02,5,Social,460,380,-17.4,25.3,0.0086,0.0171,60.01,shift,Social down 17% ($460->$380) due to higher CPA $60.01; budget moved to Search
+2026-10-02,5,Display,320,256,-20.0,17.1,0.0025,0.0156,68.08,shift,Display down 20% ($320->$256) due to higher CPA $68.08; budget moved to Search [limited by guardrail (-20%/day or 10% floor)]
+2026-10-03,6,Search,864,900,4.2,60.0,0.031,0.0733,32.99,shift,"Search up 4% ($864->$900) due to better CPA $32.99 vs $43.16 portfolio (24% better), CVR 7.3%; CPA spiked yesterday, shift halved [capped by guardrail (+20%/day or 60% max share)]"
+2026-10-03,6,Social,380,380,0.0,25.3,0.0088,0.0182,54.25,shift,Social held at $380 (CPA $54.25): not the best or worst performer
+2026-10-03,6,Display,256,220,-14.1,14.7,0.0025,0.0166,63.64,shift,Display down 14% ($256->$220) due to higher CPA $63.64; budget moved to Search
+2026-10-04,7,Search,900,900,0.0,60.0,0.03,0.0842,31.55,hold,Search held at $900 (CPA $31.55): Search already at the 60% cap
+2026-10-04,7,Social,380,380,0.0,25.3,0.0091,0.0215,44.98,hold,Social held at $380 (CPA $44.98): Search already at the 60% cap
+2026-10-04,7,Display,220,220,0.0,14.7,0.0025,0.0136,73.35,hold,Display held at $220 (CPA $73.35): Search already at the 60% cap
+2026-10-05,8,Search,900,900,0.0,60.0,0.0317,0.0914,28.46,hold,Search held at $900 (CPA $28.46): Search already at the 60% cap
+2026-10-05,8,Social,380,380,0.0,25.3,0.0091,0.0234,42.02,hold,Social held at $380 (CPA $42.02): Search already at the 60% cap
+2026-10-05,8,Display,220,220,0.0,14.7,0.0025,0.0117,84.0,hold,Display held at $220 (CPA $84.00): Search already at the 60% cap
+2026-10-06,9,Search,900,900,0.0,60.0,0.0318,0.0992,26.6,hold,Search held at $900 (CPA $26.60): Search already at the 60% cap
+2026-10-06,9,Social,380,380,0.0,25.3,0.0094,0.0201,46.3,hold,Social held at $380 (CPA $46.30): Search already at the 60% cap
+2026-10-06,9,Display,220,220,0.0,14.7,0.0025,0.0111,88.5,hold,Display held at $220 (CPA $88.50): Search already at the 60% cap
+2026-10-07,10,Search,900,900,0.0,60.0,0.0318,0.0952,27.67,hold,Search held at $900 (CPA $27.67): Search already at the 60% cap
+2026-10-07,10,Social,380,380,0.0,25.3,0.0095,0.0224,40.07,hold,Social held at $380 (CPA $40.07): Search already at the 60% cap
+2026-10-07,10,Display,220,220,0.0,14.7,0.0025,0.012,75.49,hold,Display held at $220 (CPA $75.49): Search already at the 60% cap
+2026-10-08,11,Search,900,900,0.0,60.0,0.0309,0.0844,31.29,hold,Search held at $900 (CPA $31.29): Search already at the 60% cap
+2026-10-08,11,Social,380,380,0.0,25.3,0.0093,0.0225,40.49,hold,Social held at $380 (CPA $40.49): Search already at the 60% cap
+2026-10-08,11,Display,220,220,0.0,14.7,0.0025,0.0123,73.31,hold,Display held at $220 (CPA $73.31): Search already at the 60% cap
+2026-10-09,12,Search,900,900,0.0,60.0,0.0285,0.0879,32.38,hold,Search held at $900 (CPA $32.38): Search already at the 60% cap
+2026-10-09,12,Social,380,380,0.0,25.3,0.0097,0.0246,35.54,hold,Social held at $380 (CPA $35.54): Search already at the 60% cap
+2026-10-09,12,Display,220,220,0.0,14.7,0.0026,0.0125,68.25,hold,Display held at $220 (CPA $68.25): Search already at the 60% cap
+2026-10-10,13,Search,900,900,0.0,60.0,0.0289,0.0801,35.42,hold,Search held at $900 (CPA $35.42): Search already at the 60% cap
+2026-10-10,13,Social,380,380,0.0,25.3,0.0096,0.022,39.7,hold,Social held at $380 (CPA $39.70): Search already at the 60% cap
+2026-10-10,13,Display,220,220,0.0,14.7,0.0026,0.0102,85.03,hold,Display held at $220 (CPA $85.03): Search already at the 60% cap
+2026-10-11,14,Search,900,900,0.0,60.0,0.0295,0.0705,40.1,hold,Search held at $900 (CPA $40.10): Search already at the 60% cap
+2026-10-11,14,Social,380,380,0.0,25.3,0.0092,0.0215,42.26,hold,Social held at $380 (CPA $42.26): Search already at the 60% cap
+2026-10-11,14,Display,220,220,0.0,14.7,0.0025,0.0104,87.4,hold,Display held at $220 (CPA $87.40): Search already at the 60% cap
+2026-10-12,15,Search,900,900,0.0,60.0,0.0298,0.0773,35.88,shift,Search held at $900 (CPA $35.88): at 60% max share
+2026-10-12,15,Social,380,418,10.0,27.9,0.0091,0.0249,36.42,shift,"Social up 10% ($380->$418) due to better CPA $36.42 vs $39.76 portfolio (8% better), CVR 2.5%, stable CPA"
+2026-10-12,15,Display,220,182,-17.3,12.1,0.0025,0.0092,99.81,shift,Display down 17% ($220->$182) due to higher CPA $99.81; budget moved to Social
+2026-10-13,16,Search,900,849,-5.7,56.6,0.0289,0.0702,41.23,shift,Search down 6% ($900->$849) due to higher CPA $41.23; budget moved to Social
+2026-10-13,16,Social,418,501,19.9,33.4,0.0093,0.0315,27.95,shift,"Social up 20% ($418->$501) due to better CPA $27.95 vs $38.49 portfolio (27% better), CVR 3.2%, stable CPA"
+2026-10-13,16,Display,182,150,-17.6,10.0,0.0024,0.0142,65.87,shift,Display down 18% ($182->$150) due to higher CPA $65.87; budget moved to Social; kept at 10% floor to keep learning [limited by guardrail (-20%/day or 10% floor)]
+2026-10-14,17,Search,849,749,-11.8,49.9,0.0306,0.0683,40.36,shift,Search down 12% ($849->$749) due to higher CPA $40.36; budget moved to Social
+2026-10-14,17,Social,501,601,20.0,40.1,0.0097,0.0337,26.5,shift,"Social up 20% ($501->$601) due to better CPA $26.50 vs $36.69 portfolio (28% better), CVR 3.4%, stable CPA"
+2026-10-14,17,Display,150,150,0.0,10.0,0.0024,0.0143,62.63,shift,"Display held at $150 (CPA $62.63): at 10% floor, kept for learning [limited by guardrail (-20%/day or 10% floor)]"
+2026-10-15,18,Search,749,629,-16.0,41.9,0.031,0.0608,45.29,shift,Search down 16% ($749->$629) due to higher CPA $45.29; budget moved to Social
+2026-10-15,18,Social,601,721,20.0,48.1,0.0099,0.03,29.81,shift,"Social up 20% ($601->$721) due to better CPA $29.81 vs $39.99 portfolio (25% better), CVR 3.0%, stable CPA"
+2026-10-15,18,Display,150,150,0.0,10.0,0.0025,0.0146,59.93,shift,"Display held at $150 (CPA $59.93): at 10% floor, kept for learning [limited by guardrail (-20%/day or 10% floor)]"
+2026-10-16,19,Search,629,504,-19.9,33.6,0.0315,0.0627,41.67,shift,Search down 20% ($629->$504) due to higher CPA $41.67; budget moved to Social [limited by guardrail (-20%/day or 10% floor)]
+2026-10-16,19,Social,721,846,17.3,56.4,0.01,0.0367,25.84,shift,"Social up 17% ($721->$846) due to better CPA $25.84 vs $35.73 portfolio (28% better), CVR 3.7%, stable CPA"
+2026-10-16,19,Display,150,150,0.0,10.0,0.0025,0.0111,77.93,shift,"Display held at $150 (CPA $77.93): at 10% floor, kept for learning [limited by guardrail (-20%/day or 10% floor)]"
+2026-10-17,20,Search,504,450,-10.7,30.0,0.0295,0.066,40.44,shift,Search down 11% ($504->$450) due to higher CPA $40.44; budget moved to Social
+2026-10-17,20,Social,846,900,6.4,60.0,0.0103,0.0428,22.08,shift,"Social up 6% ($846->$900) due to better CPA $22.08 vs $30.85 portfolio (28% better), CVR 4.3%, stable CPA [capped by guardrail (+20%/day or 60% max share)]"
+2026-10-17,20,Display,150,150,0.0,10.0,0.0025,0.0144,59.99,shift,"Display held at $150 (CPA $59.99): at 10% floor, kept for learning [limited by guardrail (-20%/day or 10% floor)]"
+2026-10-18,21,Search,450,450,0.0,30.0,0.0309,0.065,38.36,hold,Search held at $450 (CPA $38.36): Social already at the 60% cap
+2026-10-18,21,Social,900,900,0.0,60.0,0.0108,0.0406,22.99,hold,Social held at $900 (CPA $22.99): Social already at the 60% cap
+2026-10-18,21,Display,150,150,0.0,10.0,0.0024,0.017,50.84,hold,Display held at $150 (CPA $50.84): Social already at the 60% cap
+2026-10-19,22,Search,450,450,0.0,30.0,0.0301,0.0625,40.61,hold,Search held at $450 (CPA $40.61): Social already at the 60% cap
+2026-10-19,22,Social,900,900,0.0,60.0,0.0112,0.0412,21.64,hold,Social held at $900 (CPA $21.64): Social already at the 60% cap
+2026-10-19,22,Display,150,150,0.0,10.0,0.0025,0.0144,57.19,hold,Display held at $150 (CPA $57.19): Social already at the 60% cap
+2026-10-20,23,Search,450,450,0.0,30.0,0.0307,0.0552,42.88,hold,Search held at $450 (CPA $42.88): Social already at the 60% cap
+2026-10-20,23,Social,900,900,0.0,60.0,0.0112,0.0389,21.99,hold,Social held at $900 (CPA $21.99): Social already at the 60% cap
+2026-10-20,23,Display,150,150,0.0,10.0,0.0026,0.0112,72.78,hold,Display held at $150 (CPA $72.78): Social already at the 60% cap
+2026-10-21,24,Search,450,450,0.0,30.0,0.0306,0.0598,37.27,hold,Search held at $450 (CPA $37.27): Social already at the 60% cap
+2026-10-21,24,Social,900,900,0.0,60.0,0.011,0.0377,24.68,hold,Social held at $900 (CPA $24.68): Social already at the 60% cap
+2026-10-21,24,Display,150,150,0.0,10.0,0.0026,0.0108,75.1,hold,Display held at $150 (CPA $75.10): Social already at the 60% cap
+2026-10-22,25,Search,450,450,0.0,30.0,0.0311,0.066,33.71,hold,Search held at $450 (CPA $33.71): Social already at the 60% cap
+2026-10-22,25,Social,900,900,0.0,60.0,0.011,0.0416,23.72,hold,Social held at $900 (CPA $23.72): Social already at the 60% cap
+2026-10-22,25,Display,150,150,0.0,10.0,0.0025,0.0079,104.74,hold,Display held at $150 (CPA $104.74): Social already at the 60% cap
+2026-10-23,26,Search,450,450,0.0,30.0,0.0313,0.0588,36.36,hold,Search held at $450 (CPA $36.36): Social already at the 60% cap
+2026-10-23,26,Social,900,900,0.0,60.0,0.0112,0.045,21.64,hold,Social held at $900 (CPA $21.64): Social already at the 60% cap
+2026-10-23,26,Display,150,150,0.0,10.0,0.0027,0.0087,90.83,hold,Display held at $150 (CPA $90.83): Social already at the 60% cap
+2026-10-24,27,Search,450,450,0.0,30.0,0.0317,0.0516,39.85,hold,Search held at $450 (CPA $39.85): Social already at the 60% cap
+2026-10-24,27,Social,900,900,0.0,60.0,0.0112,0.0422,23.72,hold,Social held at $900 (CPA $23.72): Social already at the 60% cap
+2026-10-24,27,Display,150,150,0.0,10.0,0.0026,0.0082,92.52,hold,Display held at $150 (CPA $92.52): Social already at the 60% cap
+2026-10-25,28,Search,450,450,0.0,30.0,0.0314,0.0597,34.8,hold,Search held at $450 (CPA $34.80): Social already at the 60% cap
+2026-10-25,28,Social,900,900,0.0,60.0,0.0111,0.0413,23.74,hold,Social held at $900 (CPA $23.74): Social already at the 60% cap
+2026-10-25,28,Display,150,150,0.0,10.0,0.0027,0.0128,57.11,hold,Display held at $150 (CPA $57.11): Social already at the 60% cap

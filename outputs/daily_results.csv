@@ -1,0 +1,253 @@
+date,channel,spend,impressions,clicks,conversions,policy
+2026-09-28,Search,500.0,7801,233,10,BudgetPilot agent
+2026-09-28,Social,500.0,51932,434,9,BudgetPilot agent
+2026-09-28,Display,500.0,171315,458,6,BudgetPilot agent
+2026-09-29,Search,500.0,7244,256,24,BudgetPilot agent
+2026-09-29,Social,500.0,56135,470,9,BudgetPilot agent
+2026-09-29,Display,500.0,169871,379,4,BudgetPilot agent
+2026-09-30,Search,600.0,7924,238,26,BudgetPilot agent
+2026-09-30,Social,500.0,57774,523,12,BudgetPilot agent
+2026-09-30,Display,400.0,160334,389,9,BudgetPilot agent
+2026-10-01,Search,720.0,10027,325,28,BudgetPilot agent
+2026-10-01,Social,460.0,53121,457,4,BudgetPilot agent
+2026-10-01,Display,320.0,134105,356,5,BudgetPilot agent
+2026-10-02,Search,864.0,10548,307,14,BudgetPilot agent
+2026-10-02,Social,380.0,47187,431,9,BudgetPilot agent
+2026-10-02,Display,256.0,98725,248,5,BudgetPilot agent
+2026-10-03,Search,900.0,9806,272,31,BudgetPilot agent
+2026-10-03,Social,380.0,40456,418,13,BudgetPilot agent
+2026-10-03,Display,220.0,102520,274,1,BudgetPilot agent
+2026-10-04,Search,900.0,10093,364,39,BudgetPilot agent
+2026-10-04,Social,380.0,40724,361,11,BudgetPilot agent
+2026-10-04,Display,220.0,98278,236,1,BudgetPilot agent
+2026-10-05,Search,900.0,10591,336,38,BudgetPilot agent
+2026-10-05,Social,380.0,45605,461,5,BudgetPilot agent
+2026-10-05,Display,220.0,88076,214,2,BudgetPilot agent
+2026-10-06,Search,900.0,10940,356,30,BudgetPilot agent
+2026-10-06,Social,380.0,47556,455,13,BudgetPilot agent
+2026-10-06,Display,220.0,104207,278,4,BudgetPilot agent
+2026-10-07,Search,900.0,12051,341,19,BudgetPilot agent
+2026-10-07,Social,380.0,45050,393,9,BudgetPilot agent
+2026-10-07,Display,220.0,96035,236,4,BudgetPilot agent
+2026-10-08,Search,900.0,11525,256,26,BudgetPilot agent
+2026-10-08,Social,380.0,44734,474,13,BudgetPilot agent
+2026-10-08,Display,220.0,111834,301,4,BudgetPilot agent
+2026-10-09,Search,900.0,10631,321,16,BudgetPilot agent
+2026-10-09,Social,380.0,47610,436,6,BudgetPilot agent
+2026-10-09,Display,220.0,92298,229,1,BudgetPilot agent
+2026-10-10,Search,900.0,9958,312,15,BudgetPilot agent
+2026-10-10,Social,380.0,45161,368,8,BudgetPilot agent
+2026-10-10,Display,220.0,89217,218,2,BudgetPilot agent
+2026-10-11,Search,900.0,11063,351,36,BudgetPilot agent
+2026-10-11,Social,380.0,46893,411,15,BudgetPilot agent
+2026-10-11,Display,220.0,95741,225,1,BudgetPilot agent
+2026-10-12,Search,900.0,10338,274,15,BudgetPilot agent
+2026-10-12,Social,418.0,51380,516,23,BudgetPilot agent
+2026-10-12,Display,182.0,86412,178,6,BudgetPilot agent
+2026-10-13,Search,849.0,9787,362,24,BudgetPilot agent
+2026-10-13,Social,501.0,51162,548,21,BudgetPilot agent
+2026-10-13,Display,150.0,74868,203,3,BudgetPilot agent
+2026-10-14,Search,749.0,8808,277,9,BudgetPilot agent
+2026-10-14,Social,601.0,64380,663,14,BudgetPilot agent
+2026-10-14,Display,150.0,62242,186,3,BudgetPilot agent
+2026-10-15,Search,629.0,8823,274,21,BudgetPilot agent
+2026-10-15,Social,721.0,66110,687,35,BudgetPilot agent
+2026-10-15,Display,150.0,75777,192,0,BudgetPilot agent
+2026-10-16,Search,504.0,7574,165,13,BudgetPilot agent
+2026-10-16,Social,846.0,84811,907,47,BudgetPilot agent
+2026-10-16,Display,150.0,67056,170,4,BudgetPilot agent
+2026-10-17,Search,450.0,6094,229,13,BudgetPilot agent
+2026-10-17,Social,900.0,82936,978,34,BudgetPilot agent
+2026-10-17,Display,150.0,75719,164,4,BudgetPilot agent
+2026-10-18,Search,450.0,5944,163,11,BudgetPilot agent
+2026-10-18,Social,900.0,94165,1115,47,BudgetPilot agent
+2026-10-18,Display,150.0,77051,200,1,BudgetPilot agent
+2026-10-19,Search,450.0,6990,220,7,BudgetPilot agent
+2026-10-19,Social,900.0,107115,1176,40,BudgetPilot agent
+2026-10-19,Display,150.0,66017,181,1,BudgetPilot agent
+2026-10-20,Search,450.0,7585,240,18,BudgetPilot agent
+2026-10-20,Social,900.0,70349,726,24,BudgetPilot agent
+2026-10-20,Display,150.0,71422,195,2,BudgetPilot agent
+2026-10-21,Search,450.0,5787,192,15,BudgetPilot agent
+2026-10-21,Social,900.0,70708,761,40,BudgetPilot agent
+2026-10-21,Display,150.0,69703,167,0,BudgetPilot agent
+2026-10-22,Search,450.0,7346,233,10,BudgetPilot agent
+2026-10-22,Social,900.0,79600,953,53,BudgetPilot agent
+2026-10-22,Display,150.0,72631,218,2,BudgetPilot agent
+2026-10-23,Search,450.0,7373,229,8,BudgetPilot agent
+2026-10-23,Social,900.0,77180,836,29,BudgetPilot agent
+2026-10-23,Display,150.0,88183,220,2,BudgetPilot agent
+2026-10-24,Search,450.0,6769,212,18,BudgetPilot agent
+2026-10-24,Social,900.0,89092,981,37,BudgetPilot agent
+2026-10-24,Display,150.0,81327,219,6,BudgetPilot agent
+2026-10-25,Search,450.0,6602,234,26,BudgetPilot agent
+2026-10-25,Social,900.0,77145,797,37,BudgetPilot agent
+2026-10-25,Display,150.0,99075,250,6,BudgetPilot agent
+2026-09-28,Search,500.0,7801,233,10,Equal-split baseline
+2026-09-28,Social,500.0,51932,434,9,Equal-split baseline
+2026-09-28,Display,500.0,171315,458,6,Equal-split baseline
+2026-09-29,Search,500.0,7244,256,24,Equal-split baseline
+2026-09-29,Social,500.0,56135,470,9,Equal-split baseline
+2026-09-29,Display,500.0,169871,379,4,Equal-split baseline
+2026-09-30,Search,500.0,7038,213,24,Equal-split baseline
+2026-09-30,Social,500.0,57774,523,12,Equal-split baseline
+2026-09-30,Display,500.0,185360,452,10,Equal-split baseline
+2026-10-01,Search,500.0,7911,259,22,Equal-split baseline
+2026-10-01,Social,500.0,56079,484,4,Equal-split baseline
+2026-10-01,Display,500.0,179237,472,7,Equal-split baseline
+2026-10-02,Search,500.0,7392,217,9,Equal-split baseline
+2026-10-02,Social,500.0,56402,516,10,Equal-split baseline
+2026-10-02,Display,500.0,152546,375,7,Equal-split baseline
+2026-10-03,Search,500.0,6692,186,23,Equal-split baseline
+2026-10-03,Social,500.0,48356,498,16,Equal-split baseline
+2026-10-03,Display,500.0,174810,469,3,Equal-split baseline
+2026-10-04,Search,500.0,6888,254,22,Equal-split baseline
+2026-10-04,Social,500.0,48677,435,13,Equal-split baseline
+2026-10-04,Display,500.0,167576,401,3,Equal-split baseline
+2026-10-05,Search,500.0,7228,232,28,Equal-split baseline
+2026-10-05,Social,500.0,54511,547,6,Equal-split baseline
+2026-10-05,Display,500.0,150180,358,4,Equal-split baseline
+2026-10-06,Search,500.0,7466,248,20,Equal-split baseline
+2026-10-06,Social,500.0,56843,542,16,Equal-split baseline
+2026-10-06,Display,500.0,177686,472,7,Equal-split baseline
+2026-10-07,Search,500.0,8224,236,13,Equal-split baseline
+2026-10-07,Social,500.0,53848,472,10,Equal-split baseline
+2026-10-07,Display,500.0,163751,400,6,Equal-split baseline
+2026-10-08,Search,500.0,7865,172,18,Equal-split baseline
+2026-10-08,Social,500.0,53470,565,15,Equal-split baseline
+2026-10-08,Display,500.0,190691,509,6,Equal-split baseline
+2026-10-09,Search,500.0,7255,223,11,Equal-split baseline
+2026-10-09,Social,500.0,56908,520,8,Equal-split baseline
+2026-10-09,Display,500.0,157380,396,2,Equal-split baseline
+2026-10-10,Search,500.0,6796,217,10,Equal-split baseline
+2026-10-10,Social,500.0,53980,441,10,Equal-split baseline
+2026-10-10,Display,500.0,152126,370,4,Equal-split baseline
+2026-10-11,Search,500.0,7550,276,18,Equal-split baseline
+2026-10-11,Social,500.0,56050,564,17,Equal-split baseline
+2026-10-11,Display,500.0,163251,375,2,Equal-split baseline
+2026-10-12,Search,500.0,7055,189,9,Equal-split baseline
+2026-10-12,Social,500.0,57724,579,26,Equal-split baseline
+2026-10-12,Display,500.0,166670,338,9,Equal-split baseline
+2026-10-13,Search,500.0,6937,260,17,Equal-split baseline
+2026-10-13,Social,500.0,51096,548,21,Equal-split baseline
+2026-10-13,Display,500.0,163745,422,7,Equal-split baseline
+2026-10-14,Search,500.0,6773,217,7,Equal-split baseline
+2026-10-14,Social,500.0,57123,589,12,Equal-split baseline
+2026-10-14,Display,500.0,136130,398,6,Equal-split baseline
+2026-10-15,Search,500.0,7600,238,18,Equal-split baseline
+2026-10-15,Social,500.0,52112,536,31,Equal-split baseline
+2026-10-15,Display,500.0,165733,425,3,Equal-split baseline
+2026-10-16,Search,500.0,7535,165,13,Equal-split baseline
+2026-10-16,Social,500.0,60255,647,36,Equal-split baseline
+2026-10-16,Display,500.0,146658,360,9,Equal-split baseline
+2026-10-17,Search,500.0,6526,244,14,Equal-split baseline
+2026-10-17,Social,500.0,56600,671,17,Equal-split baseline
+2026-10-17,Display,500.0,165607,368,8,Equal-split baseline
+2026-10-18,Search,500.0,6365,175,11,Equal-split baseline
+2026-10-18,Social,500.0,64263,761,31,Equal-split baseline
+2026-10-18,Display,500.0,168519,437,2,Equal-split baseline
+2026-10-19,Search,500.0,7485,235,7,Equal-split baseline
+2026-10-19,Social,500.0,73101,805,34,Equal-split baseline
+2026-10-19,Display,500.0,144387,403,1,Equal-split baseline
+2026-10-20,Search,500.0,8123,258,19,Equal-split baseline
+2026-10-20,Social,500.0,48010,493,16,Equal-split baseline
+2026-10-20,Display,500.0,156207,425,3,Equal-split baseline
+2026-10-21,Search,500.0,6197,205,16,Equal-split baseline
+2026-10-21,Social,500.0,48255,497,32,Equal-split baseline
+2026-10-21,Display,500.0,152449,358,1,Equal-split baseline
+2026-10-22,Search,500.0,7867,251,11,Equal-split baseline
+2026-10-22,Social,500.0,54323,654,38,Equal-split baseline
+2026-10-22,Display,500.0,158853,467,6,Equal-split baseline
+2026-10-23,Search,500.0,7896,246,8,Equal-split baseline
+2026-10-23,Social,500.0,52672,568,16,Equal-split baseline
+2026-10-23,Display,500.0,192867,478,5,Equal-split baseline
+2026-10-24,Search,500.0,7249,226,20,Equal-split baseline
+2026-10-24,Social,500.0,60801,677,20,Equal-split baseline
+2026-10-24,Display,500.0,177871,469,12,Equal-split baseline
+2026-10-25,Search,500.0,7070,250,28,Equal-split baseline
+2026-10-25,Social,500.0,52648,545,26,Equal-split baseline
+2026-10-25,Display,500.0,216689,538,12,Equal-split baseline
+2026-09-28,Search,500.0,7801,233,10,Greedy (no guardrails)
+2026-09-28,Social,500.0,51932,434,9,Greedy (no guardrails)
+2026-09-28,Display,500.0,171315,458,6,Greedy (no guardrails)
+2026-09-29,Search,1500.0,14795,510,42,Greedy (no guardrails)
+2026-09-29,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-09-29,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-09-30,Search,1500.0,14374,421,33,Greedy (no guardrails)
+2026-09-30,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-09-30,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-01,Search,1500.0,16157,519,44,Greedy (no guardrails)
+2026-10-01,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-01,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-02,Search,1500.0,15097,438,21,Greedy (no guardrails)
+2026-10-02,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-02,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-03,Search,1500.0,13667,381,21,Greedy (no guardrails)
+2026-10-03,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-03,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-04,Search,1500.0,14068,500,52,Greedy (no guardrails)
+2026-10-04,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-04,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-05,Search,1500.0,14762,556,53,Greedy (no guardrails)
+2026-10-05,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-05,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-06,Search,1500.0,15248,491,43,Greedy (no guardrails)
+2026-10-06,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-06,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-07,Search,1500.0,16796,473,26,Greedy (no guardrails)
+2026-10-07,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-07,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-08,Search,1500.0,16063,362,35,Greedy (no guardrails)
+2026-10-08,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-08,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-09,Search,1500.0,14817,444,23,Greedy (no guardrails)
+2026-10-09,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-09,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-10,Search,1500.0,13880,430,20,Greedy (no guardrails)
+2026-10-10,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-10,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-11,Search,1500.0,15420,486,36,Greedy (no guardrails)
+2026-10-11,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-11,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-12,Search,1500.0,14409,381,21,Greedy (no guardrails)
+2026-10-12,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-12,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-13,Search,1500.0,14168,521,34,Greedy (no guardrails)
+2026-10-13,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-13,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-14,Search,1500.0,13833,426,14,Greedy (no guardrails)
+2026-10-14,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-14,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-15,Search,1500.0,15522,544,37,Greedy (no guardrails)
+2026-10-15,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-15,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-16,Search,1500.0,15389,341,28,Greedy (no guardrails)
+2026-10-16,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-16,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-17,Search,1500.0,13328,479,35,Greedy (no guardrails)
+2026-10-17,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-17,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-18,Search,1500.0,13000,430,25,Greedy (no guardrails)
+2026-10-18,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-18,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-19,Search,1500.0,15287,427,32,Greedy (no guardrails)
+2026-10-19,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-19,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-20,Search,1500.0,16590,517,33,Greedy (no guardrails)
+2026-10-20,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-20,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-21,Search,1500.0,12656,391,25,Greedy (no guardrails)
+2026-10-21,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-21,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-22,Search,1500.0,16067,514,24,Greedy (no guardrails)
+2026-10-22,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-22,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-23,Search,1500.0,16126,504,18,Greedy (no guardrails)
+2026-10-23,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-23,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-24,Search,1500.0,14805,449,47,Greedy (no guardrails)
+2026-10-24,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-24,Display,0.0,0,0,0,Greedy (no guardrails)
+2026-10-25,Search,1500.0,14439,472,34,Greedy (no guardrails)
+2026-10-25,Social,0.0,0,0,0,Greedy (no guardrails)
+2026-10-25,Display,0.0,0,0,0,Greedy (no guardrails)

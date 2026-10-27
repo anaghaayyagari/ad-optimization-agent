@@ -1,0 +1,155 @@
+{
+  "config": {
+    "daily_budget": 1500.0,
+    "warmup_days": 2,
+    "lookback_days": 7,
+    "halflife_days": 3.0,
+    "max_daily_change": 0.2,
+    "min_share": 0.1,
+    "max_share": 0.6,
+    "edge_to_shift": [
+      [
+        0.2,
+        0.2
+      ],
+      [
+        0.1,
+        0.15
+      ],
+      [
+        0.05,
+        0.1
+      ]
+    ],
+    "spike_ratio": 1.5,
+    "max_zero_days": 2
+  },
+  "seed": 42,
+  "elasticity": 0.35,
+  "totals": {
+    "BudgetPilot agent": {
+      "spend": 42000.0,
+      "impressions": 4662132,
+      "clicks": 32092,
+      "conversions": 1266,
+      "cpa": 33.18,
+      "ctr_pct": 0.688,
+      "cvr_pct": 3.945
+    },
+    "Equal-split baseline": {
+      "spend": 42000.0,
+      "impressions": 6422141,
+      "clicks": 33734,
+      "conversions": 1116,
+      "cpa": 37.63,
+      "ctr_pct": 0.525,
+      "cvr_pct": 3.308
+    },
+    "Greedy (no guardrails)": {
+      "spend": 42000.0,
+      "impressions": 631811,
+      "clicks": 13532,
+      "conversions": 881,
+      "cpa": 47.67,
+      "ctr_pct": 2.142,
+      "cvr_pct": 6.51
+    }
+  },
+  "agent_vs_baseline": {
+    "conversion_uplift_pct": 13.44,
+    "extra_conversions": 150,
+    "cpa_change_pct": -11.83
+  },
+  "robustness": {
+    "seeds": 100,
+    "mean_uplift_pct": 11.5,
+    "min_uplift_pct": 5.32,
+    "max_uplift_pct": 18.01,
+    "agent_wins_pct": 100.0
+  },
+  "elasticity_sensitivity": [
+    {
+      "elasticity": 0.2,
+      "agent_conversions": 1333,
+      "baseline_conversions": 1116,
+      "uplift_pct": 19.44
+    },
+    {
+      "elasticity": 0.35,
+      "agent_conversions": 1266,
+      "baseline_conversions": 1116,
+      "uplift_pct": 13.44
+    },
+    {
+      "elasticity": 0.5,
+      "agent_conversions": 1210,
+      "baseline_conversions": 1116,
+      "uplift_pct": 8.42
+    }
+  ],
+  "by_channel": [
+    {
+      "policy": "BudgetPilot agent",
+      "channel": "Display",
+      "spend": 6088.0,
+      "conversions": 89,
+      "cpa": 68.4
+    },
+    {
+      "policy": "BudgetPilot agent",
+      "channel": "Search",
+      "spend": 18965.0,
+      "conversions": 560,
+      "cpa": 33.87
+    },
+    {
+      "policy": "BudgetPilot agent",
+      "channel": "Social",
+      "spend": 16947.0,
+      "conversions": 617,
+      "cpa": 27.47
+    },
+    {
+      "policy": "Equal-split baseline",
+      "channel": "Display",
+      "spend": 14000.0,
+      "conversions": 155,
+      "cpa": 90.32
+    },
+    {
+      "policy": "Equal-split baseline",
+      "channel": "Search",
+      "spend": 14000.0,
+      "conversions": 450,
+      "cpa": 31.11
+    },
+    {
+      "policy": "Equal-split baseline",
+      "channel": "Social",
+      "spend": 14000.0,
+      "conversions": 511,
+      "cpa": 27.4
+    },
+    {
+      "policy": "Greedy (no guardrails)",
+      "channel": "Display",
+      "spend": 500.0,
+      "conversions": 6,
+      "cpa": 83.33
+    },
+    {
+      "policy": "Greedy (no guardrails)",
+      "channel": "Search",
+      "spend": 41000.0,
+      "conversions": 866,
+      "cpa": 47.34
+    },
+    {
+      "policy": "Greedy (no guardrails)",
+      "channel": "Social",
+      "spend": 500.0,
+      "conversions": 9,
+      "cpa": 55.56
+    }
+  ]
+}
